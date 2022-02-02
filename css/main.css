@@ -7,6 +7,10 @@ header p{
     color: white;
 }
 
+main{
+    padding-bottom: 200px;
+}
+
 footer p{
     color: white;
 }
